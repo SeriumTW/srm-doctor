@@ -35,7 +35,7 @@ The script includes a configuration file where you can customize various setting
 ## Dependencies
 
 - QBCore Framework: Make sure you have QBCore properly installed and functioning on your FiveM server.
-- okokNotify (optional): This script can utilize okokNotify for in-game notifications if it is enabled in the configuration file.
+- [okokNotify](https://okok.tebex.io/package/4724993) (optional): This script can utilize okokNotify for in-game notifications if it is enabled in the configuration file.
 
 ## Credits
 
