@@ -1,5 +1,3 @@
-Sure, here's a README for your new script:
-
 # NPC Medical Assistance Script for FiveM -- QBCore
 
 This script, created by SeriumTW, provides NPC medical assistance for players in a FiveM server when no online doctors are available.
